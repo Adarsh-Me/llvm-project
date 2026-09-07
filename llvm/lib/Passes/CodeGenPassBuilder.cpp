@@ -55,6 +55,7 @@
 #include "llvm/CodeGen/MachineLateInstrsCleanup.h"
 #include "llvm/CodeGen/MachineModuleInfo.h"
 #include "llvm/CodeGen/MachinePassManager.h"
+#include "llvm/CodeGen/MachinePipeliner.h"
 #include "llvm/CodeGen/MachineScheduler.h"
 #include "llvm/CodeGen/MachineSink.h"
 #include "llvm/CodeGen/MachineVerifier.h"
